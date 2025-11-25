@@ -1,11 +1,11 @@
-import BlogsSection from "../sections/home/BlogsSection";
+import BlogsSection from "../sections/Home/BlogsSection";
 import HomeBestSection from "../sections/Home/HomeBestSection";
-import ProductGridSection from "../sections/home/ProductGridSection";
+import ProductGridSection from "../sections/Home/ProductGridSection";
 import ProductPromoSection from "../sections/home/ProductPromoSection";
 import SectionNewProducts from "../sections/Home/SectionNewProducts";
 import SectionTechnology from "../sections/Home/SectionTechnology";
-import TechHeimSection from "../sections/home/TechHeimSection";
-import TopBrandsSection from "../sections/home/TopBrandsSection";
+import TechHeimSection from "../sections/Home/TechHeimSection";
+import TopBrandsSection from "../sections/Home/TopBrandsSection";
 
 const Home = () => {
   return (
