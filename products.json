@@ -1,0 +1,312 @@
+[
+   {
+    "id": "1",
+    "category": "Accessories",
+    "products": [
+      { "id": "1", "name": "Iphone Case", "price": 25, "image": "https://github.com/Azamat493/images/blob/main/image6.png?raw=true", "brand": "Apple", "description": "Premium silicone case for iPhone.", "rating": 4.8, "stock": 20 },
+      { "id": "2", "name": "USB-C Hub", "price": 40, "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHFPuLQVTbITTWhbTIW1UzK8XFs-w4YLKcPfjnTBx73feppzErTyjGyr9BZXqbN1tJBONsCxTQ1cbDkrhLRTmoH9z8kDxFiIOh3wyKBdwn5g-WTbSYPJN-&usqp=CAc", "brand": "Anker", "description": "7-in-1 USB-C Hub with HDMI and USB 3.0 ports.", "rating": 4.5, "stock": 35 },
+      { "id": "3", "name": "Laptop Sleeve", "price": 30, "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMGWZ1na5TxyscNTKjctFTMj0yHnSNya0yv-aKdDeh1mSV9tsy3GaiN6Gjbf0279zDUeMmqK2PIU0j-sZ2mydypNJsHt8q65aKHuIEwYBBkv8kFM7zLdLLl-KOgX4M0vhBVS3tsQY&usqp=CAc", "brand": "Logitech", "description": "Protective laptop sleeve with soft lining.", "rating": 4.2, "stock": 50 },
+      { "id": "4", "name": "Keyboard Cover", "price": 15, "image": "https://my-test-11.slatic.net/p/2/hrh-arabic-language-silicone-keyboard-cover-skin-for-macbook-air-13-pro-1315-inch-usandamp-eu-version-black-0722-5043697-21e56ee09016be676a437bade7f8e11f.jpg", "brand": "KeyGuard", "description": "Silicone cover to protect keyboard from dust.", "rating": 4.0, "stock": 40 },
+      { "id": "5", "name": "Earbuds Case", "price": 20, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe90qXQ5p9vPkQIa1Hz-gQod8azogcJxGuLw&s", "brand": "Sony", "description": "Protective case for wireless earbuds.", "rating": 4.3, "stock": 60 },
+      { "id": "6", "name": "Phone Stand", "price": 12, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CHc2ZKV3qhsGKmadLLhb-Ndlxo689mxyMg&s", "brand": "Baseus", "description": "Adjustable phone stand for desk.", "rating": 4.1, "stock": 45 },
+      { "id": "7", "name": "Charging Cable", "price": 10, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXq5XRmEutUFqWGyZJX207QxaLghEeqZlww&s", "brand": "UGREEN", "description": "Durable USB-C charging cable.", "rating": 4.6, "stock": 80 },
+      { "id": "8", "name": "Portable Charger", "price": 35, "image": "https://m.media-amazon.com/images/I/71NVBNrF1pL._AC_UF894,1000_QL80_.jpg", "brand": "Xiaomi", "description": "10000mAh power bank for devices.", "rating": 4.4, "stock": 55 },
+      { "id": "9", "name": "Bluetooth Speaker", "price": 50, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqK7ol6MlRmeL1f78zEA9_dne9dkq3If_GSg&s", "brand": "JBL", "description": "Portable Bluetooth speaker with deep bass.", "rating": 4.7, "stock": 35 },
+      { "id": "10", "name": "Stylus Pen", "price": 18, "image": "https://cdn.thewirecutter.com/wp-content/media/2024/06/ipad-stylus-2048px-232713-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp", "brand": "Adonit", "description": "Precision stylus for touchscreens.", "rating": 4.5, "stock": 25 }
+    ]
+  },
+  {
+    "id": "2",
+    "category": "Camera",
+    "products": [
+      { "id": "11", "name": "DSLR Camera", "price": 500, "image": "https://github.com/Azamat493/images/blob/main/image7.png?raw=true", "brand": "Canon", "description": "Professional DSLR camera for photography.", "rating": 4.9, "stock": 15 },
+      { "id": "12", "name": "Tripod Stand", "price": 70, "image": "https://i5.walmartimages.com/seo/Onn-Adjustable-Mini-Tripod-Stand-for-Cameras-GoPros-Smartphone-Devices_2298a9cc-aca3-4a67-a9e2-e1c13c8284a7.bc475e7f5ed38a57da79e7a7f80e3f6f.jpeg", "brand": "Manfrotto", "description": "Mini tripod stand for cameras and phones.", "rating": 4.4, "stock": 30 },
+      { "id": "13", "name": "Camera Bag", "price": 60, "image": "https://m.media-amazon.com/images/I/81DtAN13caL._AC_UY1000_.jpg", "brand": "Lowepro", "description": "Durable camera bag for DSLRs and lenses.", "rating": 4.5, "stock": 40 },
+      { "id": "14", "name": "Lens Kit", "price": 250, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Nofh4TtVGlqwro8WvQHYVz3XosMUcBo0Vg&s", "brand": "Nikon", "description": "Complete lens kit for photography.", "rating": 4.7, "stock": 20 },
+      { "id": "15", "name": "Memory Card 64GB", "price": 25, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzAbh08O4tHuli9DPCleMsW969x1ukRmkDQ&s", "brand": "SanDisk", "description": "High-speed 64GB SD card.", "rating": 4.8, "stock": 60 },
+      { "id": "16", "name": "Camera Strap", "price": 15, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYE_U2DoUc5Do5i8-36NK0hDb9yLCpO7VQ7A&s", "brand": "Canon", "description": "Comfortable camera strap for DSLRs.", "rating": 4.3, "stock": 50 },
+      { "id": "17", "name": "External Flash", "price": 120, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvXbXf87rBtRKZtDZd81WiyRRwXvPtixftw&s", "brand": "Godox", "description": "High-power external flash for cameras.", "rating": 4.6, "stock": 25 },
+      { "id": "18", "name": "Cleaning Kit", "price": 20, "image": "https://images-cdn.ubuy.co.in/6747b06e1fe48c2a2e72d695-autodeco-30pcs-car-wash-cleaning-kit.jpg", "brand": "Lenspen", "description": "Camera cleaning kit with brushes and wipes.", "rating": 4.5, "stock": 35 },
+      { "id": "19", "name": "Action Camera", "price": 300, "image": "https://static.independent.co.uk/2022/07/13/12/action%20cameras%20indybest%20copy.jpg", "brand": "GoPro", "description": "Compact action camera for sports.", "rating": 4.7, "stock": 20 },
+      { "id": "20", "name": "Camera Remote", "price": 30, "image": "https://cdn.mos.cms.futurecdn.net/gHoeYF2uWXLUecAgC5iKmD.jpg", "brand": "Sony", "description": "Remote control for camera shooting.", "rating": 4.4, "stock": 40 }
+    ]
+  },
+  {
+  "id": "3",
+  "category": "Laptop",
+  "products": [
+    { "id": "21", "name": "Gaming Laptop", "price": 1200, "image": "https://github.com/Azamat493/images/blob/main/image8.png?raw=true", "brand": "Asus", "description": "High-performance laptop for gaming and streaming.", "rating": 4.8, "stock": 15 },
+    { "id": "22", "name": "Ultrabook Laptop", "price": 1000, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVuFNJBY29cyI0HUlwIW9UTd2w3X1T_PckfQ&s", "brand": "Dell", "description": "Slim ultrabook for work and travel.", "rating": 4.5, "stock": 25 },
+    { "id": "23", "name": "Laptop Stand", "price": 35, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREldrdCloYlU6WcJ3cZSQilxjduO2S_IykyA&s", "brand": "RainDesign", "description": "Ergonomic laptop stand for desk.", "rating": 4.3, "stock": 40 },
+    { "id": "24", "name": "External SSD", "price": 150, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz30j4J3YeKEMDHKtet9t4Eapvvl28JUVCg&s", "brand": "Samsung", "description": "Portable external SSD 1TB.", "rating": 4.7, "stock": 30 },
+    { "id": "25", "name": "Laptop Charger", "price": 60, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRTZsR4K6HEKYGeg5zd6RzaNOepeHos1mDQ&s", "brand": "Lenovo", "description": "Original charger for laptops.", "rating": 4.5, "stock": 50 },
+    { "id": "26", "name": "Cooling Pad", "price": 40, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFBBMUWreIknUD2OOZBP6u_bIyM2TrYIDGQ&s", "brand": "Cooler Master", "description": "Laptop cooling pad with fans.", "rating": 4.4, "stock": 35 },
+    { "id": "27", "name": "Webcam HD", "price": 80, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRZqPOK5Qlc9xXdUVCe9z2NxQVT1VEOo3Qg&s", "brand": "Logitech", "description": "High-definition webcam for video calls.", "rating": 4.6, "stock": 40 },
+    { "id": "28", "name": "Laptop Backpack", "price": 90, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5Vy3BHdgJuM6-IfhCkd0ZS-loi3MvDBYgg&s", "brand": "Targus", "description": "Waterproof laptop backpack with multiple compartments.", "rating": 4.5, "stock": 25 },
+    { "id": "29", "name": "Wireless Keyboard", "price": 50, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWB8JuedPRXzhZZ7Srj9h2qGht1ZXvSjIAfA&s", "brand": "Microsoft", "description": "Compact wireless keyboard.", "rating": 4.4, "stock": 40 },
+    { "id": "30", "name": "Wireless Mouse", "price": 35, "image": "https://pcmarket.uz/wp-content/uploads/2024/08/m220-charcoal-gallery-1.png", "brand": "Logitech", "description": "Ergonomic wireless mouse.", "rating": 4.5, "stock": 50 }
+  ]
+},
+{
+  "id": "4",
+  "category": "Smart Phone",
+  "slug": "smartwatch",
+  "products": [
+    { "id": "31", "name": "Smartphone X", "price": 800, "image": "https://github.com/Azamat493/images/blob/main/image9.png?raw=true", "brand": "Apple", "description": "Latest generation smartphone with OLED display.", "rating": 4.9, "stock": 20 },
+    { "id": "32", "name": "Smartphone Y", "price": 700, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuZpN9SL1SnlQ7q0-I0yFbmyyf4aj2TYBrQ&s", "brand": "Samsung", "description": "High-performance Android smartphone.", "rating": 4.7, "stock": 25 },
+    { "id": "33", "name": "Phone Case", "price": 20, "image": "https://i.ebayimg.com/images/g/9YwAAOSwSLNic3WH/s-l400.jpg", "brand": "Spigen", "description": "Durable protective phone case.", "rating": 4.5, "stock": 50 },
+    { "id": "34", "name": "Screen Protector", "price": 10, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OrUQhDDFRaW-AwKghyMX_cWxZQS9lVQUNQ&s", "brand": "Belkin", "description": "Tempered glass screen protector.", "rating": 4.4, "stock": 60 },
+    { "id": "35", "name": "Wireless Charger", "price": 35, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuOuy5Qfjh0gKEE2leh54ns1Or5ewn3D_nA&s", "brand": "Anker", "description": "Fast wireless charger for smartphones.", "rating": 4.5, "stock": 40 },
+    { "id": "36", "name": "Power Bank", "price": 40, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJIJCrpCdCMF4Q3BX1zgGUpxaPGZBtGUPUQ&s", "brand": "Xiaomi", "description": "10000mAh power bank for travel.", "rating": 4.6, "stock": 35 },
+    { "id": "37", "name": "Phone Stand", "price": 15, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSseIRmUKCx-VFjYeRt6GP9CAjPss9LzdgdOA&s", "brand": "Baseus", "description": "Adjustable phone stand.", "rating": 4.3, "stock": 45 },
+    { "id": "38", "name": "Bluetooth Earbuds", "price": 60, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt44nZxmNo0MctbFT-i1-QG1u61I6D2domng&s", "brand": "Sony", "description": "Wireless earbuds with noise cancellation.", "rating": 4.7, "stock": 30 },
+    { "id": "39", "name": "Selfie Stick", "price": 25, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGS0sUnGYILEiPHLrjVtme1Ud5c3uoL8lMxA&s", "brand": "Anker", "description": "Extendable selfie stick for smartphones.", "rating": 4.4, "stock": 50 },
+    { "id": "40", "name": "Car Charger", "price": 20, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YeNhU3X0StdKzMM7tQHjvFuL7OL44pbchQ&s", "brand": "Belkin", "description": "Fast car charger for smartphones.", "rating": 4.5, "stock": 45 }
+  ]
+},
+ {
+  "id": "5",
+  "category": "Gaming",
+  "products": [
+    { "id": "41", "name": "Gamepad Controller", "price": 60, "image": "https://github.com/Azamat493/images/blob/main/image10.png?raw=true", "brand": "Sony", "description": "Wireless gamepad controller for console and PC.", "rating": 4.7, "stock": 30 },
+    { "id": "42", "name": "Gaming Chair", "price": 200, "image": "https://m.media-amazon.com/images/I/61Oeg6XSvoL._AC_UF894,1000_QL80_.jpg", "brand": "DXRacer", "description": "Ergonomic chair with adjustable armrests.", "rating": 4.6, "stock": 20 },
+    { "id": "43", "name": "Gaming Mouse", "price": 50, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiGVduFFPwqYnYDbGlYOCNaNNx93yso6U8w&s", "brand": "Razer", "description": "High precision gaming mouse with RGB lighting.", "rating": 4.8, "stock": 40 },
+    { "id": "44", "name": "Gaming Keyboard", "price": 100, "image": "https://m.media-amazon.com/images/I/71fRP7KY9hL._AC_SL1500_.jpg", "brand": "Corsair", "description": "Mechanical keyboard with customizable keys.", "rating": 4.7, "stock": 35 },
+    { "id": "45", "name": "VR Headset", "price": 300, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfPQhWJit9As_OYyhYs10qVtVREZrLN2Wwg&s", "brand": "Oculus", "description": "Immersive virtual reality headset.", "rating": 4.6, "stock": 15 },
+    { "id": "46", "name": "Gaming Console", "price": 500, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDwNtcRrLhzEHBKNSfe1-eYMYINn0pNPDFQ&s", "brand": "Microsoft", "description": "Next-gen gaming console.", "rating": 4.8, "stock": 20 },
+    { "id": "47", "name": "Gaming Monitor", "price": 350, "image": "https://maxcom.uz/storage/product/B1wqPsIexBxWTtdJ3g8eESu2nf8dXtU4UWetElEl.png", "brand": "Acer", "description": "27-inch gaming monitor with 144Hz refresh rate.", "rating": 4.5, "stock": 25 },
+    { "id": "48", "name": "Headset with Mic", "price": 80, "image": "https://m.media-amazon.com/images/I/612GLi06mbL.jpg", "brand": "HyperX", "description": "Surround sound gaming headset.", "rating": 4.7, "stock": 30 },
+    { "id": "49", "name": "Gaming Desk", "price": 250, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ouGP0qf5GaEaQnuagDFXTZyqkEUOfnr_cQ&s", "brand": "Eureka", "description": "Spacious desk designed for gamers.", "rating": 4.6, "stock": 15 },
+    { "id": "50", "name": "RGB Lighting Kit", "price": 45, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxeM2SMr8ZQdtyuqj6wzS-byIiShZS3bh71w&s", "brand": "Corsair", "description": "RGB lighting strips for gaming setup.", "rating": 4.5, "stock": 40 }
+  ]
+},
+{
+  "id": "6",
+  "category": "Smart Watch",
+  "slug": "smartphone",
+  "products": [
+    { "id": "51", "name": "Smart Watch A", "price": 200, "image": "https://github.com/Azamat493/images/blob/main/image11.png?raw=true", "brand": "Apple", "description": "Smart watch with heart rate monitoring.", "rating": 4.8, "stock": 25 },
+    { "id": "52", "name": "Smart Watch B", "price": 250, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lVvO7-57a5mXW-IiHivYedWKEh_apjG-3w&s", "brand": "Samsung", "description": "Fitness-focused smart watch.", "rating": 4.7, "stock": 20 },
+    { "id": "53", "name": "Fitness Tracker", "price": 100, "image": "https://m.media-amazon.com/images/I/61dV494jBgL.jpg", "brand": "Fitbit", "description": "Track steps, heart rate, and sleep.", "rating": 4.5, "stock": 40 },
+    { "id": "54", "name": "Watch Strap", "price": 25, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4W6zlDHIOc-lySczgOXZuoti3NiWCJ8jitA&s", "brand": "Apple", "description": "Replacement strap for smart watches.", "rating": 4.3, "stock": 50 },
+    { "id": "55", "name": "Wireless Charger", "price": 40, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAkjk_Cnf1R_2jsHLbb9gHKif0T-O7zz6-Q&s", "brand": "Samsung", "description": "Fast wireless charger for watches.", "rating": 4.6, "stock": 30 },
+    { "id": "56", "name": "Heart Rate Monitor", "price": 80, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4ERwPcgADzC_ACeljmXj6sL4-K34oSsbVw&s", "brand": "Garmin", "description": "Monitor heart rate accurately.", "rating": 4.7, "stock": 25 },
+    { "id": "57", "name": "Smart Watch C", "price": 220, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTVu56vw6Y6XTnzCmrwzfdk_bnXKPrDw-Bg&s", "brand": "Huawei", "description": "Smart watch with long battery life.", "rating": 4.5, "stock": 30 },
+    { "id": "58", "name": "Sleep Tracker", "price": 90, "image": "https://www.cnet.com/a/img/resize/c2e3b071753c6a7681582d4b648ad5f442e2e192/hub/2022/06/06/1834da91-17e9-4364-b866-9532d30825c5/screen-shot-2022-06-06-at-10-50-38-am.png?auto=webp&fit=crop&height=1200&width=1200", "brand": "Fitbit", "description": "Monitor sleep patterns and quality.", "rating": 4.6, "stock": 35 },
+    { "id": "59", "name": "GPS Watch", "price": 180, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEfFbct9nb2UKI75KU-LdUxX_18RrMZEaeg&s", "brand": "Garmin", "description": "Smart watch with built-in GPS.", "rating": 4.7, "stock": 25 },
+    { "id": "60", "name": "Smart Watch D", "price": 240, "image": "https://mini-io-api.texnomart.uz/catalog/product/3570/357027/196891/934f7fd3-25cb-4d90-a17a-cb40d11d7213.webp", "brand": "Amazfit", "description": "Fitness and health tracking smart watch.", "rating": 4.5, "stock": 30 }
+  ]
+},
+{
+  "id": "7",
+  "category": "New Products",
+  "products": [
+    {
+      "id": "61",
+      "name": "Iphone 14 promax 256 gig",
+      "price": 930,
+      "rating": 4.5,
+      "brand": "Apple",
+      "description": "Latest Apple iPhone 14 Pro Max with 256GB storage",
+      "stock": 12,
+      "image": "https://github.com/Azamat493/images/blob/main/image12.png?raw=true"
+    },
+    {
+      "id": "62",
+      "name": "Blackmagic Design Pocket Cinema Camera 6K Pro (Canon EF)",
+      "price": 2535,
+      "rating": 4.8,
+      "brand": "Blackmagic",
+      "description": "Professional 6K cinema camera with Canon EF mount",
+      "stock": 5,
+      "image": "https://github.com/Azamat493/images/blob/main/image13.png?raw=true"
+    },
+    {
+      "id": "63",
+      "name": "SAMSUNG Galaxy S23 Ultra Cell Phone,256 GB",
+      "price": 1018,
+      "rating": 4.7,
+      "brand": "Samsung",
+      "description": "High-end Samsung Galaxy S23 Ultra with 256GB storage",
+      "stock": 8,
+      "image": "https://github.com/Azamat493/images/blob/main/image14.png?raw=true"
+    },
+    {
+      "id": "64",
+      "name": "VR VisionTech X1",
+      "price": 1399,
+      "rating": 4.7,
+      "brand": "VisionTech",
+      "description": "VR headset with immersive experience and high resolution",
+      "stock": 6,
+      "image": "https://github.com/Azamat493/images/blob/main/image15.png?raw=true"
+    },
+    {
+      "id": "65",
+      "name": "Fast Wireless Charger",
+      "price": 19.99,
+      "rating": 4.3,
+      "brand": "Anker",
+      "description": "Compact fast wireless charger for smartphones",
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/51YD0CM1PnL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "66",
+      "name": "4K Web Camera",
+      "price": 89.99,
+      "rating": 4.9,
+      "brand": "Logitech",
+      "description": "Ultra HD 4K webcam for streaming and video calls",
+      "stock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXRfiFdib2BquZxx4IZZ_mWrve05eHK6Lcg&s"
+    },
+    {
+      "id": "67",
+      "name": "Smart LED Strip RGB",
+      "price": 24.99,
+      "rating": 4.4,
+      "brand": "Govee",
+      "description": "Customizable RGB LED strip with smart app control",
+      "stock": 18,
+      "image": "https://interbrands.uz/image/cache/catalog/products/111/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%20%D1%87%D0%B5%D0%BC%D0%BE%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Govee/31-1000x600.jpg"
+    },
+    {
+      "id": "68",
+      "name": "Mini Tripod Stand",
+      "price": 14.99,
+      "rating": 4.7,
+      "brand": "UBeesize",
+      "description": "Portable mini tripod for cameras and smartphones",
+      "stock": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCcI5yH_nVQ89MZ1roiJ5u2HOOcQQZHK2yQ&s"
+    },
+    {
+      "id": "69",
+      "name": "USB-C Hub 6-in-1",
+      "price": 34.99,
+      "rating": 4.8,
+      "brand": "Anker",
+      "description": "6-in-1 USB-C hub with HDMI, USB and SD ports",
+      "stock": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUg2-TUzC2Dp3A9Ywfgw3FxlZhUAIPE-whg&s"
+    },
+    {
+      "id": "70",
+      "name": "Smart Key Finder",
+      "price": 12.99,
+      "rating": 4.1,
+      "brand": "Tile",
+      "description": "Bluetooth key tracker to locate lost items",
+      "stock": 20,
+      "image": "https://m.media-amazon.com/images/I/61sGjaLuybL.jpg"
+    }
+  ]
+}, 
+{
+  "id": "8",
+  "category": "Best Sellers",
+  "products": [
+    {
+      "id": "71",
+      "name": "EchoX Pro H900",
+      "price": 32.30,
+      "rating": 4.6,
+      "brand": "EchoX",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "stock": 15,
+      "image": "https://github.com/Azamat493/images/blob/main/image16.png?raw=true"
+    },
+    {
+      "id": "72",
+      "name": "Play Station 4 Pro 1Tb",
+      "price": 980.00,
+      "rating": 4.8,
+      "brand": "Sony",
+      "description": "Powerful PS4 Pro with 1TB storage for gaming enthusiasts",
+      "stock": 8,
+      "image": "https://github.com/Azamat493/images/blob/main/image17.png?raw=true"
+    },
+    {
+      "id": "73",
+      "name": "Apple MacBook Air 15\" w/ Touch ID (2023) - Space Grey",
+      "price": 1883.05,
+      "rating": 4.9,
+      "brand": "Apple",
+      "description": "Latest MacBook Air 15 inch with Touch ID, Space Grey",
+      "stock": 6,
+      "image": "https://github.com/Azamat493/images/blob/main/image18.png?raw=true"
+    },
+    {
+      "id": "74",
+      "name": "Airpods Pro2",
+      "price": 274.04,
+      "rating": 4.7,
+      "brand": "Apple",
+      "description": "Second generation AirPods Pro with Active Noise Cancellation",
+      "stock": 20,
+      "image": "https://github.com/Azamat493/images/blob/main/image19.png?raw=true"
+    },
+    {
+      "id": "75",
+      "name": "Samsung Galaxy Tab S8",
+      "price": 699.99,
+      "rating": 4.5,
+      "brand": "Samsung",
+      "description": "High-end Android tablet with S Pen support",
+      "stock": 12,
+      "image": "https://mini-io-api.texnomart.uz/catalog/product/1025/102567/204911/71bc901d-cab7-4628-b8b4-8f3ae4d12f10.webp"
+    },
+    {
+      "id": "76",
+      "name": "DJI Mini 4 Drone",
+      "price": 459.99,
+      "rating": 4.6,
+      "brand": "DJI",
+      "description": "Compact drone with 4K camera for aerial photography",
+      "stock": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaILNPqeccB9hoZgvUAvgvbZK_EyLe0gyEg&s"
+    },
+    {
+      "id": "77",
+      "name": "Sony WH-1000XM5",
+      "price": 349.99,
+      "rating": 4.9,
+      "brand": "Sony",
+      "description": "Noise-canceling over-ear headphones with premium sound",
+      "stock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90eFan741vDZMq40knwIt0iSN_js3pRiqyw&s"
+    },
+    {
+      "id": "78",
+      "name": "Kindle Paperwhite 2023",
+      "price": 139.99,
+      "rating": 4.7,
+      "brand": "Amazon",
+      "description": "Latest Kindle Paperwhite with high-resolution display",
+      "stock": 18,
+      "image": "https://staticg.sportskeeda.com/editor/2023/01/486e9-16747477942569-1920.jpg"
+    },
+    {
+      "id": "79",
+      "name": "Razer DeathAdder V3",
+      "price": 69.99,
+      "rating": 4.8,
+      "brand": "Razer",
+      "description": "Ergonomic gaming mouse with RGB lighting",
+      "stock": 25,
+      "image": "https://razer.syntes.io/cache/500x500/public/j5XiGart2o6SRvTWuW9sJQ/800x600-razer-deathadder-v3-hyperspeed-black-product-promo.png"
+    },
+    {
+      "id": "80",
+      "name": "GoPro Hero 12 Black",
+      "price": 499.99,
+      "rating": 4.9,
+      "brand": "GoPro",
+      "description": "Waterproof action camera with 5K video recording",
+      "stock": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrhPdS8WLmX7zXhxI4tnNlzXotA4HkOd_jQ&s"
+    }
+  ]
+}
+]

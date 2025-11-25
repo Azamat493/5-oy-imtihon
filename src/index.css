@@ -1,1 +1,69 @@
 @import "tailwindcss";
+
+@theme {
+  --primary: #0c68f4;
+  --secondary: #f45e0c;
+  --black: #0c0c0c;
+  --white: #fff;
+  --primary-primary-25: #e4eefe;
+  --primary-primary-50: #aecdfb;
+  --primary-primary-75: #78abf9;
+  --primary-primary-100: #428af6;
+  --primary-primary-200: #2779f5;
+  --primary-primary-300: #0c68f4;
+  --primary-primary-400: #0951be;
+  --primary-primary-500: #063a88;
+  --primary-primary-600: #052e6d;
+  --primary-primary-700: #042352;
+  --primary-primary-900: #021736;
+  --primary-secondary-secondary-100: #fddbc9;
+  --primary-secondary-secondary-200: #fab793;
+  --primary-secondary-secondary-300: #f68242;
+  --primary-secondary-secondary-400: #f45e0c;
+  --primary-secondary-secondary-500: #be4909;
+  --primary-secondary-secondary-600: #883406;
+  --neutral-gray-f9f9f9: #f9f9f9;
+  --neutral-gray-f6f6f6: #f6f6f6;
+  --neutral-gray-ededed: #ededed;
+  --neutral-gray-cbcbcb: #cbcbcb;
+  --neutral-gray-b4b4b4: #b4b4b4;
+  --neutral-gray-9e9e9e: #9e9e9e;
+  --neutral-gray-717171: #717171;
+  --neutral-gray-505050: #505050;
+  --neutral-gray-444444: #444;
+  --neutral-gray-2d2d2d: #2d2d2d;
+  --state-error: #c91433;
+  --state-error-light: #fae7eb;
+  --state-success: #146c43;
+  --state-success-light: #d1f7e5;
+  --font-family: "Inter", sans-serif;
+  --breakpoint-lgg: 58.375rem; /* 934 */
+  --breakpoint-lgm: 49.25rem; /* 788 */
+  --breakpoint-smm: 28.75rem; /* 460 */
+  --breakpoint-lgs: 63.25rem; /* 1012 */
+}
+html {
+  scroll-behavior: smooth;
+}
+.custom-scroll {
+  scrollbar-width: thin;          
+  scrollbar-color: #1fb6cf #e5e7eb;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  height: 8px;             
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: #e5e7eb;       
+  border-radius: 10px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(315deg, #b0e9c9 0%, #1fb6cf 48%, #1975b9 100%);
+  border-radius: 10px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(315deg, #9bdcb9 0%, #18a9c3 48%, #1668a6 100%);
+}
