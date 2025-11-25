@@ -4,7 +4,7 @@ import blogimage from "../../assets/images/blogimage.png";
 import save from "../../assets/images/save.png";
 import blogimage1 from "../../assets/images/blogimage1.png";
 
-const BlogsSection = () => {
+const BlogSection = () => {
   return (
     <section className="py-12">
       <div className="max-w-[1224px] w-full mx-auto px-4">
@@ -461,4 +461,4 @@ const BlogsSection = () => {
   );
 };
 
-export default BlogsSection;
+export default BlogSection;

@@ -1,4 +1,4 @@
-import BlogsSection from "../sections/Home/BlogsSection";
+import BlogSection from "../sections/Home/BlogSection";
 import HomeBestSection from "../sections/Home/HomeBestSection";
 import ProductGridSection from "../sections/Home/ProductGridSection";
 import ProductPromoSection from "../sections/home/ProductPromoSection";
@@ -17,7 +17,7 @@ const Home = () => {
       <ProductPromoSection />
       <HomeBestSection />
       <TopBrandsSection />
-      <BlogsSection />
+      <BlogSection />
     </>
   );
 };
